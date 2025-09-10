@@ -75,8 +75,7 @@ JavaScript, React.js, Node.js, Express.js, Angular.js, MongoDB, MySQL, Git/GitHu
 
 <div align="center" style="animation: float 3s ease-in-out infinite;">
 
-🎯 **Finalist** in CodeAdda Premium League (2024–2025)  
-🥉 **Newbie** on Codeforces (5+ contests)  
+🥉 **Pupil** on Codeforces (10+ contests)  
 📊 **Top 75%** on LeetCode  
 🧩 **200+ problems** solved across platforms  
 🏆 **Hackathon Competitor** (HackOut 2025, HackNUthon 5.0)  
