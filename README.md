@@ -9,7 +9,7 @@ I'm fascinated by how computers operate and love building things from what I lea
 🤝 Open to collaborating on Open Source Projects  
 💬 Let's connect and talk about:  
 JavaScript, React.js, Node.js, Express.js, Angular.js, MongoDB, MySQL, Git/GitHub, DSA, C++, Java, Frontend & Backend Development  
-📫 Reach out to me at aryanpatel9784@gmail.com  
+📫 Reach out to me at aaryanpatel9784@gmail.com  
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000"/>
 
