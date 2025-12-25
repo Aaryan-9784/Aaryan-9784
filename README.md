@@ -71,18 +71,6 @@ JavaScript, React.js, Node.js, Express.js, Angular.js, MongoDB, MySQL, Git/GitHu
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000"/>
 
-## 🏆 Achievements
-
-<div align="center" style="animation: float 3s ease-in-out infinite;">
-
-🥉 **Pupil** on Codeforces (10+ contests)  
-📊 **Top 75%** on LeetCode  
-🧩 **200+ problems** solved across platforms  
-🏆 **Hackathon Competitor** (HackOut 2025, HackNUthon 5.0)  
-
-</div>
-
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000"/>
 
 ## 📊 GitHub Stats
