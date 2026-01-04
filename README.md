@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-I am a 3rd-year Computer Science student at Nirma University, Ahmedabad, passionate about software development and building impactful, scalable solutions. I have hands-on experience with C++, Java, Python, and JavaScript, and strong skills in Data Structures, Algorithms, and Web Development.
+I am a 3rd-year Computer Science student at Nirma University, Ahmedabad, passionate about software development and building impactful, scalable solutions. I have hands-on experience with C++, Python, and JavaScript, and strong skills in Data Structures, Algorithms, and Web Development.
 
 I enjoy solving challenging problems, contributing to meaningful projects, and learning new technologies. Eager to apply my skills in rea
 
