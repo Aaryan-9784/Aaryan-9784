@@ -3,13 +3,9 @@
 
 ## 🚀 About Me
 
-I'm fascinated by how computers operate and love building things from what I learn. Coding isn't just a hobby — it's what keeps me up at night! �‍💻
+I am a 3rd-year Computer Science student at Nirma University, Ahmedabad, passionate about software development and building impactful, scalable solutions. I have hands-on experience with C++, Java, Python, and JavaScript, and strong skills in Data Structures, Algorithms, and Web Development.
 
-🌱 Currently diving deep into Data Structures & Algorithms  
-🤝 Open to collaborating on Open Source Projects  
-💬 Let's connect and talk about:  
-JavaScript, React.js, Node.js, Express.js, Angular.js, MongoDB, MySQL, Git/GitHub, DSA, C++, Java, Frontend & Backend Development  
-📫 Reach out to me at aaryanpatel9784@gmail.com  
+I enjoy solving challenging problems, contributing to meaningful projects, and learning new technologies. Eager to apply my skills in rea
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000"/>
 
