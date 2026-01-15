@@ -14,7 +14,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 </p>
 
-<h2 align="center">🚀 About Me</h2>
+<h2 align="left">🚀 About Me</h2>
 
 <p align="center">
   
@@ -33,7 +33,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 </p>
 
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="left">💻 Tech Stack</h2>
 
 <h3 align="center">👨‍💻 Programming Languages</h3>
 <p align="center">
@@ -91,7 +91,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 </p>
 
-<h2 align="center">🌐 Connect With Me</h2>
+<h2 align="left">🌐 Connect With Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aspatel9784/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
