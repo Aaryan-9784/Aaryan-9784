@@ -96,12 +96,11 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/aspatel9784/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
   <a href="https://github.com/Aaryan-9784"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github"></a>
-  <a href="mailto:aaryanpatel9784@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"></a>
   <a href="https://leetcode.com/AryanPatel/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode"></a>
-  <a href="https://codeforces.com/profile/AryanPatel"><img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces"></a>
-  <a href="https://www.codechef.com/users/aryanpatel"><img src="https://img.shields.io/badge/CodeChef-964B00?style=for-the-badge&logo=codechef"></a>
-  <a href="https://atcoder.jp/users/aryanpatel"><img src="https://img.shields.io/badge/AtCoder-FF0000?style=for-the-badge"></a>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://codeforces.com/profile/Aaryan_9784"><img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces"></a>
+  <a href="https://www.codechef.com/users/aaryan_9784"><img src="https://img.shields.io/badge/CodeChef-964B00?style=for-the-badge&logo=codechef"></a>
+  <a href="https://atcoder.jp/users/aaryan_9784"><img src="https://img.shields.io/badge/AtCoder-FF0000?style=for-the-badge"></a>
+  <a href="https://discord.com/users/Aryan-9784"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
 <!-- Divider -->
