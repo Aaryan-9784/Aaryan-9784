@@ -94,8 +94,8 @@
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aryan-patel-797598284/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/AryanPatel"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github"></a>
+  <a href="https://www.linkedin.com/in/aspatel9784/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/Aaryan-9784"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github"></a>
   <a href="mailto:aaryanpatel9784@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"></a>
   <a href="https://leetcode.com/AryanPatel/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode"></a>
   <a href="https://codeforces.com/profile/AryanPatel"><img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces"></a>
