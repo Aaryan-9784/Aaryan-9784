@@ -17,15 +17,19 @@
 <h2 align="left">🚀 About Me</h2>
 
 <p align="center">
-  
-🎯 Aspiring Software Development Engineer passionate about building useful and reliable software.<br><br>
-📘 Currently learning <b>Data Structures, Algorithms, and System Design</b> to improve problem-solving skills.<br><br>
-🔧 I enjoy writing clean and efficient code using modern technologies.<br><br>
-🤝 Looking to collaborate on <b>open-source projects</b> and gain real-world experience through <b>internships</b>.<br><br>
-🚀 Always eager to learn, build projects, and grow as a software engineer.<br><br>
-📩 Connect with me at: <b>aaryanpatel9784@gmail.com</b>
-</p>
-
+  <b>Aspiring Software Development Engineer</b> focused on building practical, reliable, and scalable software.
+  <br><br>
+  💡 Passionate about <b>Data Structures & Algorithms, Problem Solving, and Software Development</b>.
+  <br><br>
+  📚 Currently strengthening my foundations in <b>DSA, System Design, and Modern Software Engineering</b>.
+  <br><br>
+  🛠️ Enjoy building projects, writing <b>clean and efficient code</b>, and learning new technologies.
+  <br><br>
+  🤝 Open to collaborating on <b>open-source projects</b> and exploring <b>internship opportunities</b>.
+  <br><br>
+  🌱 Continuously learning, building, and improving — one project at a time.
+  <br><br>
+  📩 <b>Let's connect:</b> aaryanpatel9784@gmail.com
 </p>
 
 <!-- Divider -->
